@@ -1,28 +1,31 @@
-## Hey there 👋
+# Hi there, I'm Alper! 👋
 
-<!--
-**alperozkurt/alperozkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Game Developer and Software Engineer based in Turkey.
 
-Here are some ideas to get you started:
+I specialize in **Game Design**, **Backend Architecture**, and **Cross-Platform Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm Alper, a game developer based in Turkey.
+---
 
-I focus on game design, backend systems and cross-platform applications.
+## 🔭 Current Projects
 
-My current work:
-**GençCüzdan**
-User-centric app that enhances financial awareness for younger users.
+### 💸 **GençCüzdan**
+> *User-centric financial awareness.*
+A cross-platform mobile application designed to enhance financial literacy for younger users, built with a focus on intuitive UX and secure backend integration.
 
-**Grove Guardian TD**
-A 3D tower-defense game with custom mechanics, Unity-based movement systems, and GitHub-driven CI/CD setup.
+### 🛡️ **Grove Guardian TD**
+> *Strategic 3D Tower Defense.*
+A Unity-based tower defense game featuring:
+* Custom movement systems and enemy AI.
+* Advanced mechanics written in C#.
 
-Tech stack: Unity(C#), Java, Spring Boot, Flutter.
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
