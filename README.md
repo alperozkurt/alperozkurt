@@ -1,7 +1,6 @@
 # Hi, I'm Alper Özkurt
 
-Software engineer focused on backend systems, game development, and practical product building. I work across mobile, web, and game technologies, with a strong interest in designing systems that are both maintainable and user-oriented.
-
+Software engineer focused on backend systems, game development, and practical product building. I work across mobile and web with a strong interest in designing systems that are both maintainable and user-oriented.
 
 ---
 
@@ -19,7 +18,6 @@ Core focus:
 ## Main Areas
 
 - Backend architecture
-- Game systems programming
 - API development
 - Mobile applications
 - Database design
@@ -60,13 +58,3 @@ Core focus:
 
 ---
 
-## Contact
-
-### GitHub
-[github.com/alperozkurt](https://github.com/alperozkurt)
-
----
-
-## Notes
-
-I enjoy building products that are practical, technically solid, and long-term maintainable — from game prototypes to production backend systems. Most of my projects start from solving a real workflow problem, then expand into full applications.
