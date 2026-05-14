@@ -2,7 +2,6 @@
 
 Software engineer focused on backend systems, game development, and practical product building. I work across mobile, web, and game technologies, with a strong interest in designing systems that are both maintainable and user-oriented.
 
-Currently based in :contentReference[oaicite:0]{index=0}.
 
 ---
 
@@ -16,30 +15,6 @@ Core focus:
 - User-first interface design
 - Backend API integration
 - Data-driven financial insights
-
-Tech:
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
-
----
-
-### :contentReference[oaicite:5]{index=5}
-A 3D tower defense project built in Unity. Focused on gameplay systems, enemy logic, and custom architecture rather than template-driven mechanics.
-
-Current systems:
-- Wave management
-- Enemy pathing
-- Tower targeting
-- Upgrade systems
-- Resource economy
-- Modular component design
-
-Tech:
-- :contentReference[oaicite:6]{index=6}
-- :contentReference[oaicite:7]{index=7}
-
----
 
 ## Main Areas
 
@@ -79,9 +54,6 @@ Tech:
 
 ## Current Interests
 
-- AI-powered application workflows
-- Interactive AI experiences
-- Game system architecture
 - Backend scalability
 - Full deployment pipelines
 - Independent product development
